@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo18296
-Fork on GitHub5425
 <h1 align="center">Hi 👋, I'm Dattaraj</h1>
 <h3 align="center">Passionate and highly dedicated toward Software Developer...</h3>
 <img src="https://wallpapercave.com/wp/wp8862099.jpg" width="660" />
