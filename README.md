@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://wallpapercave.com/wp/wp8862099.jpg" width="600" /> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dataraj&label=Profile%20views&color=0e75b6&style=flat" alt="dataraj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dataraj" alt="dataraj" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dataraj" alt="dataraj" /></a> </p> -->
 
 - 💬 Ask me about **Any Core Fundamentals about software and application building 😊**
 
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <p align=center>
   <div align=center>
       <img align="center" width="45%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dataraj&theme=react&layout=compact&langs_count=6&hide_title=true"/>
-      <img align="center" width="45%" height="200" src="https://github-readme-stats.vercel.app/api?username=dataraj&theme=react&layout=cpmpact&show_icons=true&locale=en" alt="dataraj" />
+      <img align="center" width="45%" height="200" src="https://github-readme-stats.vercel.app/api?username=dataraj&theme=react&show_icons=true&locale=en" alt="dataraj" />
       <img align="center" width="45%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=dataraj&theme=react&border=61dafb&hide_border=true" alt="dev"/>
   </div>
   <div align="center">
